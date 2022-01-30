@@ -21,5 +21,5 @@ Herein lies the prototype book on DSP algorithms. I'll fill this out as I learn 
   - **Amplifier**: Kemper profiles
   - **Filter**: Analog filters (faust)
   - **Creative**: Mutable instruments algorithms
-  - **Synthesis**: Vital wavetable oscillators
+  - **Synthesis**: Vital wavetable oscillators, additive synth technique in JUCE talk, polygon synthesis
   - **Granular**: Microsound algorithms
