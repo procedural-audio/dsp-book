@@ -17,6 +17,7 @@ Herein lies the prototype book on DSP algorithms. I'll fill this out as I learn 
   - **Dynamics**: Analog compressor
   - **Space**: Reverb, shimmer, delay
   - **Distortion**: Saturation, distortion, exciter, amp
+  - **Tape**: ???
   - **Filter**: Analog filter, creative filter
   - **Synthesis**: Vital wavetable oscillators, additive synth technique in JUCE talk, polygon synthesis
   - **Granular**: Microsound algorithms
