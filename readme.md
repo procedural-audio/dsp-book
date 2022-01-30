@@ -15,11 +15,9 @@ Herein lies the prototype book on DSP algorithms. I'll fill this out as I learn 
 
  ### Algorithms
   - **Dynamics**: Analog compressor
-  - **Reverb**: Valhalla Room, Valhalla Shimmer, Valhalla Vintage Verb, from Melda reverb designer, dragonfly reverb
-  - **Delay**: Valhalla Delay
-  - **Distortion**: Soundtoys Decapitator, Soundtoys Radiator
-  - **Amplifier**: Kemper profiles
-  - **Filter**: Analog filters (faust)
-  - **Creative**: Mutable instruments algorithms
+  - **Space**: Reverb, shimmer, delay
+  - **Distortion**: Saturation, distortion, exciter, amp
+  - **Filter**: Analog filter, creative filter
   - **Synthesis**: Vital wavetable oscillators, additive synth technique in JUCE talk, polygon synthesis
   - **Granular**: Microsound algorithms
+  - **Special**: Sample resynthesis, physical modelling
