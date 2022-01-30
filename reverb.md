@@ -23,7 +23,7 @@ Sean Costello is a great resource for this.
 
 ### Academic references
 
-Sean Costello has recommended some important papers, which can be found in [this](https://valhalladsp.com/2021/09/22/getting-started-with-reverb-design-part-2-the-foundations/) blog post. He also links some more resources in [this](https://valhalladsp.com/2021/09/23/getting-started-with-reverb-design-part-3-online-resources/) blog post. 
+Sean Costello has recommended some important papers, which can be found in [this](https://valhalladsp.com/2021/09/22/getting-started-with-reverb-design-part-2-the-foundations/) blog post. He also links some online resources in [this](https://valhalladsp.com/2021/09/23/getting-started-with-reverb-design-part-3-online-resources/) blog post, and books in [this](https://valhalladsp.com/2021/09/28/getting-started-with-reverb-design-part-4-books/) blog post.
  - [“Colorless” Artificial Reverberation]() - Manfred Schroeder
  - ...
 
