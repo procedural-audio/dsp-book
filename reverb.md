@@ -11,7 +11,7 @@ Sean Costello is a great resource for this.
  - [Melda](https://youtu.be/DwHAbakxbBE) (reverb designer)
 
 ### Hardware References
- - BigSky reverb
+ - BigSky reverb. Especially the cloud algorithm. 
  - Old hardware verbs?
  - Eventide stuff
 
@@ -23,5 +23,8 @@ Sean Costello is a great resource for this.
 
 ### Academic references
 
-Sean Costello has recommended some important papers. These are linked below.
+Sean Costello has recommended some important papers, which can be found in [this](https://valhalladsp.com/2021/09/22/getting-started-with-reverb-design-part-2-the-foundations/) blog post. He also links some more resources in [this](https://valhalladsp.com/2021/09/23/getting-started-with-reverb-design-part-3-online-resources/) blog post. 
  - [“Colorless” Artificial Reverberation]() - Manfred Schroeder
+ - ...
+
+
