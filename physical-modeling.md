@@ -47,6 +47,10 @@ Reeds, that use engine version 1, is basically a Multivector Sample engine with 
 Flutes use version 2 with a bigger component of physical modeling tecnique than sampling and in our opinion represent the best example of mixing between both techniques because we have sampled the lower dynamics on the first octave only and all other notes and dynamics are obtained by modeling this limited sampled material, through the obtainment of Overtones.
 Lastly, Bowed Strings (our recent product) are made mainly with Physical Modeling approach. We decided to 100% model Bowed Strings by WaveGuide Synthesis (a Physical Modeling method conceived by Prof. Julius O.Smith) because it was very difficult obtain the BowPressure parameter (Very important expression control) with others SWAM techniques.
 
+### KVR, what is multi-vector sampling
+
+It's (from my limited understanding) basically phase-aligned samples that can be crossfaded in multiple dimensions (not just from A to B, but from somewhere between A and B you can then crossfade to C, and then all that to D, or something like that).
+
 ---
 
 ## Physical Audio
