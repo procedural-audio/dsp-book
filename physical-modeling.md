@@ -44,5 +44,4 @@ SWAM-S models this complex system by using the Digital Waveguide Synthesis conce
  - [Timbre 2020 Keynote](https://youtu.be/6Bx0DNiNvFk)
  - [Code samples](https://physicalaudio.co.uk/testing-simd-performance-on-apples-new-m1-processor/)
  - Detrailer technical details [here](https://physicalaudio.co.uk/derailer-tutorial-driver/) and [here](https://physicalaudio.co.uk/derailer-tutorial-resonator/)
-
-
+ - Preparation details [here]
