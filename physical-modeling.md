@@ -7,6 +7,7 @@
  - [Entire thesis](https://hal.archives-ouvertes.fr/tel-01219693/document)
  - [Discussion of technology](https://audiomodeling.com/about-us/technology/)
  - [Interesting KVR discussion](https://www.kvraudio.com/forum/viewtopic.php?t=488332&sid=362d4e415904ffb46072c29dc66681a7)
+ - [Cool modular physical modeling synth](https://madronalabs.com/products/kaivo)
 
 ### Notes
 - Modeling is done with [digital waveguide synthesis](https://ccrma.stanford.edu/~jos/swgt/)
