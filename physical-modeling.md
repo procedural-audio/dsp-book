@@ -42,3 +42,6 @@ SWAM-S models this complex system by using the Digital Waveguide Synthesis conce
 ### Notes
  - [SMC 2021 Keynote](https://youtu.be/JcMR1FVcpF8)
  - [Timbre 2020 Keynote](https://youtu.be/6Bx0DNiNvFk)
+ - [Code samples](https://physicalaudio.co.uk/testing-simd-performance-on-apples-new-m1-processor/)
+
+
