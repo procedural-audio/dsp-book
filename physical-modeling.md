@@ -7,6 +7,11 @@
 
 ---
 
+## NESS Project
+ - [Website](http://www.ness.music.ed.ac.uk/)
+ - [Overview video](https://youtu.be/W9nMbtIjygM)
+ - [Good Youtube Channel](https://www.youtube.com/user/AAGedinburgh/videos)
+
 ## Audio Modeling
 
 ### Notes
@@ -37,4 +42,3 @@ SWAM-S models this complex system by using the Digital Waveguide Synthesis conce
 ### Notes
  - [SMC 2021 Keynote](https://youtu.be/JcMR1FVcpF8)
  - [Timbre 2020 Keynote](https://youtu.be/6Bx0DNiNvFk)
- - 
