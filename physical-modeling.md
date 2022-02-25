@@ -4,6 +4,7 @@
  - [Paper on strings](https://tel.archives-ouvertes.fr/tel-00349920/document)
  - [Interesting KVR discussion](https://www.kvraudio.com/forum/viewtopic.php?t=488332&sid=362d4e415904ffb46072c29dc66681a7)
  - Madrona Labs [kaivo overview](https://madronalabs.com/products/kaivo). Another [here](https://youtu.be/8elZ_HaMO00)
+ - Look at all Madrona Labs instruments
 
 ---
 
