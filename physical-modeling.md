@@ -5,6 +5,7 @@
  - [Interesting KVR discussion](https://www.kvraudio.com/forum/viewtopic.php?t=488332&sid=362d4e415904ffb46072c29dc66681a7)
  - Madrona Labs [kaivo overview](https://madronalabs.com/products/kaivo). Another [here](https://youtu.be/8elZ_HaMO00)
  - Look at all Madrona Labs instruments
+ - [Great Reaktor Model](https://youtu.be/kLkPvmr93K8)
 
 ---
 
@@ -35,6 +36,16 @@ The bow-string interaction is important for another reason. Through a limited ra
 Helmholtz motion is the name given to the idealized motion of the string during stick and slip cycles.
 
 SWAM-S models this complex system by using the Digital Waveguide Synthesis conceived by Prof. Julius O. Smith, exploiting a complex friction model, and adding several elements taken from the SWAM technology created for the Woodwinds instruments. In combination, these elements improve the realism of the timbre and the overall behaviour of the instrument.
+
+### KVR quote from founder
+
+The technology used in our instruments is indeed a combination of different techniques.
+I started in 2007 with a technology called SWT - Synchronous Waves Triggering (a MultiVector Samples ReSynthesis) which was my first attempt to model samples in realtime. These instruments (SaxBrothers) were developed on Native Instrument Kontakt platform. Kontakt (that is a very good platform and basically an advanced sampler perfect for sample libraries) is non the best tool for this Synthesis technique, so I decided to make a proprietary engine. In 2009 I met Emanuele Parravicini and together begun the development of the SWAM engine.
+SWAM, Synchronous Waves Acoustic Modeling (or now we prefer Synchronous Waves Audio Modeling) adds concepts of Physical Modeling to the MultiVector Sample technique. We made different versions of the engine, each one more suitable for a specific family of instruments.
+Each version has different balance between Sample and Physical Modeling.
+Reeds, that use engine version 1, is basically a Multivector Sample engine with some Physical Modeled Resonance elements and Behavioral modeling techniques.
+Flutes use version 2 with a bigger component of physical modeling tecnique than sampling and in our opinion represent the best example of mixing between both techniques because we have sampled the lower dynamics on the first octave only and all other notes and dynamics are obtained by modeling this limited sampled material, through the obtainment of Overtones.
+Lastly, Bowed Strings (our recent product) are made mainly with Physical Modeling approach. We decided to 100% model Bowed Strings by WaveGuide Synthesis (a Physical Modeling method conceived by Prof. Julius O.Smith) because it was very difficult obtain the BowPressure parameter (Very important expression control) with others SWAM techniques.
 
 ---
 
